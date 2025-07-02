@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-openai
+pymysql
+chromadb
+openai
+pandas
+streamlit
